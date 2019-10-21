@@ -151,7 +151,7 @@ Page({
 
   bdmap:function() {
     wx.navigateTo({
-      url: '../location/index',
+      url: '../location/index?city='+this.data.locationString,
     })
   },
 

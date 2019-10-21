@@ -1,12 +1,14 @@
 {
 	"pages": [
 		"pages/index/index",
+		"pages/search/index",
 		"pages/map/index",
 		"pages/placeDetail/index",
 		"pages/placeBook/index",
 		"pages/orderDetail/index",
-		"pages/search/index",
 		"pages/location/index"
+	
+		
 	],
 	"window": {
 		"navigationBarTitleText": "场地预订",
